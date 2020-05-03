@@ -14,10 +14,8 @@ Inside this project you can find some `Racket` functions for managing a database
  * get-tables(_database_)
  * get-table(_database_, _table-name_)
  * add-table(_database_, _table-name_)
- * remove-table(_database_, _table-name_)   
-
-<br>
-
+ * remove-table(_database_, _table-name_)
+<br>  
  * insert(_database_, _table-name_, _new-record_)
  * simple-select(_database_, _table-name_, _columns_)
  * select(_database_, _table-name_, _columns_, _conditions_)
