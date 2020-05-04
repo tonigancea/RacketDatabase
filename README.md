@@ -1,7 +1,7 @@
 # RacketDatabase
 
 ## About Racket
-Racket is a general-purpose, multi-paradigm programming language based on the Scheme dialect of Lisp. It is designed to be a platform for programming language design and implementation.[9] In addition to the core Racket language, Racket is also used to refer to the family of programming languages[10] and set of tools supporting development on and with Racket.[11] Racket is also used for scripting, computer science education, and research.
+Racket is a general-purpose, multi-paradigm programming language based on the Scheme dialect of Lisp. It is designed to be a platform for programming language design and implementation. In addition to the core Racket language, Racket is also used to refer to the family of programming languages and set of tools supporting development on and with Racket. Racket is also used for scripting, computer science education, and research.
 
 ## This project
 Inside this project you can find some `Racket` functions for managing a database.  
